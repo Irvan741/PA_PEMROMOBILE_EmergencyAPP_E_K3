@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298767929915",
+    "project_id": "teslogin-83617",
+    "storage_bucket": "teslogin-83617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298767929915:android:cd10246b2c7d6a154e021e",
+        "android_client_info": {
+          "package_name": "com.example.teslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298767929915-vsdno7i9iupooafd4km7bdgcke7p7agc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujqM1d8t6oHY61lxskoE8F2nnyQ5JXYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298767929915-vsdno7i9iupooafd4km7bdgcke7p7agc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
